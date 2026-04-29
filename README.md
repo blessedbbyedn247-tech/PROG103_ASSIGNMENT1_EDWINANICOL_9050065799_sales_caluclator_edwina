@@ -1,0 +1,2 @@
+# PROG103_ASSIGNMENT1_EDWINANICOL_9050065799_sales_caluclator_edwina
+this a sales calculator developed by edwina
